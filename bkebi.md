@@ -1,4 +1,3 @@
-#Bkebi-GC
 以下是Bkebi-GC团队在Github上发布的内容。
 <div align=center>
 <img src="https://github.com/Bkebi-Group/Bkebi-GC-Release/raw/main/.github/logo.svg" width="520"/>
